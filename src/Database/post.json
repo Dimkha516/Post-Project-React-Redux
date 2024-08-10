@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "auteur": "Jean",
+      "content": "Hello !",
+      "comments": [],
+      "likes": [],
+      "unlikes": [],
+      "publishedDate": "22/09/2024"
+    },
+    {
+      "auteur": "Ziko",
+      "content": "Hy friends", 
+      "comments": [],
+      "likes": [],
+      "unlikes": [],
+      "publishedDate": "26/09/2024"
+    },
+    {
+      "auteur": "Milo",
+      "content": "Welcome every body",
+      "comments": [],
+      "likes": [],
+      "unlikes": [],
+      "publishedDate": "22/09/2024"
+    },
+    {
+      "auteur": "Polo",
+      "content": "Salut !",
+      "comments": [],
+      "likes": [],
+      "unlikes": [],
+      "publishedDate": "23/09/2024"
+    }
+  ]
+}
